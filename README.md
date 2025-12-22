@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working with a digital marketing agency to develop their team management app and manage their client projects as wel
+I’m currently working with a digital marketing agency to develop their team management app and manage/develop their client projects as wel
 
 
 ## 🌐 Socials:
