@@ -84,14 +84,16 @@ const joydeep: Developer = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=joydeep-bhowmik&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=FF006E&text_color=c9d1d9&ring_color=7B2FF7" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joydeep-bhowmik&layout=compact&langs_count=8&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=c9d1d9" alt="top languages" />
+<img width="820" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joydeep-bhowmik&theme=2077" alt="profile summary" />
 
-<img width="820" src="https://nirzak-streak-stats.vercel.app/?user=joydeep-bhowmik&hide_border=true&background=0D1117&stroke=7B2FF7&ring=00F5D4&fire=FF006E&currStreakLabel=00F5D4&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=00F5D4&dates=8b949e" alt="streak" />
+<img width="405" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joydeep-bhowmik&theme=2077" alt="repos per language" />
+<img width="405" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joydeep-bhowmik&theme=2077" alt="most committed language" />
 
-<img width="820" src="https://github-readme-activity-graph.vercel.app/graph?username=joydeep-bhowmik&bg_color=0D1117&color=00F5D4&line=7B2FF7&point=FF006E&area=true&area_color=7B2FF7&hide_border=true&custom_title=CONTRIBUTION%20WAVEFORM" alt="activity graph" />
+<img width="405" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joydeep-bhowmik&theme=2077" alt="stats" />
+<img width="405" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joydeep-bhowmik&theme=2077&utcOffset=5.5" alt="productive time" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=joydeep-bhowmik&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
+<img width="820" src="https://streak-stats.demolab.com/?user=joydeep-bhowmik&hide_border=true&background=0D1117&stroke=7B2FF7&ring=00F5D4&fire=FF006E&currStreakLabel=00F5D4&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=00F5D4" alt="streak" />
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5d4,50:7b2ff7,100:ff006e&height=3&section=header" width="100%" alt="divider" />
 
